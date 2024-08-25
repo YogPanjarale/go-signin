@@ -5,3 +5,5 @@ The webpage compares the hash of the entered username and password with the valu
 
 Additionally, I have created a command line utility to manage users. This tool allows you to view existing users and add new users by specifying their username and hash.
 
+Example Username : `bits` 
+Example password `pilani`
